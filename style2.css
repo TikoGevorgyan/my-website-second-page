@@ -1,0 +1,313 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.blfon{
+    width: 100%;
+    height: 100vh;
+}
+.witcher2{
+
+    font-size: 35px;
+    position:absolute;
+    margin-top: 5px;
+text-shadow: 3px 3px 30px red ;
+color: rgb(212, 0, 0);
+font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+margin-left: 95px;
+}
+.the{
+    color: white;
+    font-size: 35px;
+    position:absolute;
+margin-left: 35px;
+font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+margin-top: 5px;
+}
+.witcher{
+    position: absolute;
+    width: 20%;
+    margin-left:5.2%;
+    margin-top:110px;
+}
+.home{
+color: rgb(200, 0, 0);
+font-size: 20px;
+text-decoration: underline;
+    position:absolute;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+cursor: pointer;
+margin-left: 350px;
+margin-top: 20px;
+}
+.home:hover{
+    text-shadow: 5px 5px 20px red;
+}
+
+.about{
+    color: white;
+    font-size: 20px;
+    position:absolute;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    cursor: pointer;
+margin-left: 430px;
+margin-top: 20px;
+}
+.about:hover{
+    text-decoration: underline;
+color: rgb(200, 0, 0);
+    text-shadow: 5px 5px 20px red;
+    transition: 0.7s ease;
+}
+
+.services:hover{
+    text-decoration: underline;
+    text-shadow: 5px 5px 20px red;
+    color: rgb(200, 0, 0);
+transition: 0.7s ease;
+}
+.contact:hover{
+    text-decoration: underline;
+color: rgb(200, 0, 0);
+    text-shadow: 5px 5px 20px red;
+    transition: 0.7s ease;
+}
+.projects:hover{
+    text-decoration: underline;
+color: rgb(200, 0, 0);
+    text-shadow: 5px 5px 20px red;
+    transition: 0.7s ease;
+}
+
+
+.services{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    cursor: pointer;
+color: white;
+    font-size: 20px;
+    position:absolute;
+margin-left: 510px;
+margin-top: 20px;
+}
+
+.projects{
+ color: white;
+    font-size: 20px;
+    position:absolute;
+margin-left: 610px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+margin-top: 20px;
+cursor: pointer;
+}
+
+.contact{
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size:20px;
+    position:absolute;
+cursor: pointer;
+margin-left: 710px;
+margin-top: 20px;
+}
+
+
+.gerald{
+    width: 34%;
+    font-size: 20px;
+    position: absolute;
+    margin-top: 230px;
+color: white;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-left: 400px;
+}
+.witch{
+    margin-left: 570px;
+    margin-top: 100px;
+    font-size: 50px;
+    position: absolute;
+    color: red;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.hi{
+    margin-left: 420px;
+    margin-top: 100px;
+    font-size: 50px;
+    position: absolute;
+    color: white;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.whitetext{
+font-size:30px;
+    margin-left: 480px;
+    position: absolute;
+    margin-top: 170px;
+    color: white;
+}
+
+.redtext{
+    font-size: 30px;
+    margin-left: 550px;
+    position: absolute;
+    color: red;
+    margin-top: 170px;
+}
+.icon1{
+    margin-left: 540px;
+    position: absolute;
+    width: 3%;
+    border-radius:300px;
+    border: 1px solid red;
+
+    margin-top: 330px;
+}
+
+.icon2{
+    margin-left: 480px;
+    position: absolute;
+    width: 3%;
+    border-radius:100%;
+    margin-top: 330px;
+    border: 1px solid red;
+}
+.icon3{
+    margin-left: 600px;
+    position: absolute;
+    width: 3%;
+    border-radius:100%;
+    margin-top: 330px;
+    border: 1px solid red;
+}
+
+.icon4{
+    margin-left: 660px;
+    position: absolute;
+    width: 3%;
+    border-radius:100%;
+    margin-top: 330px;
+    border: 1px solid red;
+}
+
+
+.icon1:hover{
+
+margin-top: 320px;
+transition: 0.5s;
+box-shadow: 3px 3px 20px red;
+background-color: white;
+width: 3%;
+cursor: pointer;
+}
+
+
+.icon2:hover{
+margin-top: 320px;
+background-color: white;
+width: 3%;
+box-shadow: 3px 3px 20px red;
+transition: 0.5s;
+cursor: pointer;
+}
+
+.icon3:hover{
+margin-top: 320px;
+box-shadow: 3px 3px 20px red;
+width: 3%;
+background-color: white;
+
+transition: 0.5s;
+cursor: pointer;
+}
+.icon4:hover{
+margin-top: 320px;
+transition: 0.5s;
+box-shadow: 3px 3px 20px red;
+background-color: white;
+
+cursor: pointer;
+width: 3%;
+}
+
+ 
+
+
+.circle{
+    position: absolute;
+    width: 60vh;
+    box-shadow:3px 3px 60px red ;
+    height: 60vh;
+margin-left: 20px;
+margin-top: 75px;
+    border-radius: 50%;
+    animation: animate 1s linear infinite;
+    background: linear-gradient(black,red);
+
+}
+@keyframes animate{
+    from{
+        transform: rotate(0deg);
+    }
+    to{
+        
+        transform: rotate(360deg);
+    }
+}
+
+.circle:after{
+    content: '';
+    top: 35px;
+    position: absolute;
+    right: 35px;
+    bottom: 35px;
+    left: 35px;
+    border-radius: 50%;
+}
+
+
+
+.contacts{
+width: 8.5%;
+height: 9vh;
+border-radius: 100px;
+position: absolute;
+margin-top: 390px;
+display: flex;
+box-shadow: 3px 3px 20px red;
+justify-content: center;
+align-items: center;
+margin-left:450px;
+font-weight: 600;
+font-size: 20px;
+color: black;
+text-decoration: none;
+background-color: red;
+}
+.contacts:hover{
+box-shadow: 3px 3px 40px red;
+cursor: pointer;
+}
+
+.play{
+    width: 12%;
+font-weight: 600;
+font-size: 20px;
+height: 8.5vh;
+    border-radius: 100px;
+    position: absolute;
+    margin-top: 392px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left:590px;
+    color: red;
+    background-color: black;
+}
+.play:hover{
+    box-shadow: 3px 3px 40px red;
+    background-color: red;
+    color: black;
+    cursor: pointer;
+}
